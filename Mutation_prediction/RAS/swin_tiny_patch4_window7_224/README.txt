@@ -1,0 +1,1 @@
+The pre-trained model 'swin_tiny_patch4_window7_224.pth' is available at https://github.com/microsoft/Swin-Transformer

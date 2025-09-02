@@ -1,0 +1,1 @@
+The pre-trained model 'vit_large_patch16_224' is available at https://huggingface.co/google/vit-large-patch16-224/tree/main
